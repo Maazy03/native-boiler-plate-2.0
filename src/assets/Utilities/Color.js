@@ -1,0 +1,21 @@
+export default Color = {
+  white: '#fff',
+  black: '#000',
+  gray: '#959994',
+  red: '#E31E00',
+  themeRed: '#E31E00',
+  lightGrey: '#D3D3D3',
+  gradientBtnDark: '#CE0000',
+  gradientBtnLight: '#F43600',
+  iconRed: '#E62200',
+  orange: '#FE4500',
+  yellowStar: '#F2D349',
+  green: '#27ae60',
+  darkpurple: '#51087E',
+  lightpurple: '#B14BF3',
+
+  beforeLoginBGColor: 'rgba(219,238,255,.5)',
+  splashBGColor: 'rgba(66,165,255,0.7)',
+  FAQBGColor: 'rgba(66,165,255,0.2)',
+  statusBar: '#42A5FF',
+};
